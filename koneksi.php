@@ -1,3 +1,3 @@
 <?php
-echo "Koneksi Berhasil";
+echo "Koneksi Gagal";
 ?>
